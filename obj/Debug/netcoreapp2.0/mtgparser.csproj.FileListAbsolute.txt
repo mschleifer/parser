@@ -1,0 +1,11 @@
+D:\Code\mtgparser\bin\Debug\netcoreapp2.0\mtgparser.deps.json
+D:\Code\mtgparser\bin\Debug\netcoreapp2.0\mtgparser.runtimeconfig.json
+D:\Code\mtgparser\bin\Debug\netcoreapp2.0\mtgparser.runtimeconfig.dev.json
+D:\Code\mtgparser\bin\Debug\netcoreapp2.0\mtgparser.dll
+D:\Code\mtgparser\bin\Debug\netcoreapp2.0\mtgparser.pdb
+D:\Code\mtgparser\obj\Debug\netcoreapp2.0\mtgparser.csprojAssemblyReference.cache
+D:\Code\mtgparser\obj\Debug\netcoreapp2.0\mtgparser.csproj.CoreCompileInputs.cache
+D:\Code\mtgparser\obj\Debug\netcoreapp2.0\mtgparser.AssemblyInfoInputs.cache
+D:\Code\mtgparser\obj\Debug\netcoreapp2.0\mtgparser.AssemblyInfo.cs
+D:\Code\mtgparser\obj\Debug\netcoreapp2.0\mtgparser.dll
+D:\Code\mtgparser\obj\Debug\netcoreapp2.0\mtgparser.pdb
